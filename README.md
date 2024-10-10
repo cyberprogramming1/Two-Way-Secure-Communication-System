@@ -32,7 +32,7 @@ This project implements a two-way secure communication system using Python's soc
 3. Clone the repository:
    ```bash
    git clone https://github.com/cyberprogramming1/Two-Way-Secure-Communication-System.git
-   cd <repository-directory>
+   cd Secure-Communication-System
    ```
 
 4. **Generate SSL certificates**:
